@@ -28,7 +28,7 @@ form {
   text-align: center;
 }
 .card {
-  display: block;
+  display: inline-block;
   background-color: #ffb677;
   color: #155263;
   margin-bottom: 20px;
