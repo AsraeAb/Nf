@@ -61,3 +61,14 @@ form {
   border-radius: 5px;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
 }
+
+#git-link {
+  color: orangered;
+}
+#span {
+  color: #ffc93c;
+}
+#span,
+#git-link {
+  padding-bottom: 50px;
+}
